@@ -1,4 +1,4 @@
-___ 我的博客http://stray.love/hiwifi/ji-lu-you-adbyby ___ 
+我的博客http://stray.love/hiwifi/ji-lu-you-adbyby
 ####特性
 1.去广告自然不用说
 2.支持额外规则更新
