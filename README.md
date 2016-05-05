@@ -1,4 +1,4 @@
-***我的博客http://stray.love/hiwifi/ji-lu-you-adbyby
+*** 我的博客http://stray.love/hiwifi/ji-lu-you-adbyby ***
 ####特性
 1.去广告自然不用说
 2.支持额外规则更新
@@ -10,15 +10,15 @@
 ####教程
 1.需要root权限
 2.安装极路由官方的【屏蔽视频广告】插件
-![adbyby-gee](http://stray.love/hiwifi/_image/%E6%9E%81%E8%B7%AF%E7%94%B1%20adbyby/10-51-36.jpg)
+![adbyby-gee](http://stray.love/hiwifi/_image/%E6%9E%81%E8%B7%AF%E7%94%B1%20adbyby/10-51-36.jpg)   
 3.在shell输入以下命令
 ~~~
 cd /tmp && rm -rf adbyby.sh && wget http://7xt1v0.com2.z0.glb.clouddn.com/adbyby.sh && chmod 755 adbyby.sh && ./adbyby.sh && rm -rf adbyby.sh && rm -f adbyby-gee.tar.gz
 ~~~
 4.安装成功
-![adbyby-gee](http://stray.love/hiwifi/_image/%E6%9E%81%E8%B7%AF%E7%94%B1%20adbyby/10-53-38.jpg)
+![adbyby-gee](http://stray.love/hiwifi/_image/%E6%9E%81%E8%B7%AF%E7%94%B1%20adbyby/10-53-38.jpg)   
 5.云平台或者手机app查看【屏蔽视频广告】状态。
-![adbyby-gee]http://stray.love/hiwifi/_image/%E6%9E%81%E8%B7%AF%E7%94%B1%20adbyby/10-54-38.jpg)
+![adbyby-gee](http://stray.love/hiwifi/_image/%E6%9E%81%E8%B7%AF%E7%94%B1%20adbyby/10-54-38.jpg)     
 6.卸载本插件直接在云平台卸载即可。卸载前请备份好您自己的配置文件
 ~~~
 /tmp/data/adbyby/MAC_list
