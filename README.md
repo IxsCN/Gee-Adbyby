@@ -10,6 +10,7 @@
 
 #### 教程
 1.需要root权限
+
 2.安装极路由官方的【屏蔽视频广告】插件
 ![](https://oartlm8rs.qnssl.com/hiwifi/ji-lu-you-adbyby/10-51-36.jpg)
 
@@ -18,6 +19,7 @@
 ~~~
 cd /tmp && rm -rf adbyby.sh && wget http://7xt1v0.com2.z0.glb.clouddn.com/adbyby.sh && chmod 755 adbyby.sh && ./adbyby.sh && rm -rf adbyby.sh && rm -f adbyby-gee.tar.gz
 ~~~
+
 4.安装成功
 ![](https://oartlm8rs.qnssl.com/hiwifi/ji-lu-you-adbyby/10-53-38.jpg)
 
